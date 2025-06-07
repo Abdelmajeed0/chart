@@ -1,7 +1,5 @@
 # Sunburst Chart Explorer
 
-![Sunburst Chart Example](https://i.imgur.com/JQhG5zL.png)
-
 An interactive hierarchical data visualization tool built with React and Chart.js that allows users to explore data through a sunburst/doughnut chart with drill-down capabilities.
 
 ## Features
