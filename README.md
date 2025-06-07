@@ -24,7 +24,7 @@ An interactive hierarchical data visualization tool built with React and Chart.j
 Clone the repository:
 
 ```
-git clone https://github.com/yourusername/sunburst-chart.git
+git clone https://github.com/Abdelmajeed0/chart.git
 cd sunburst-chart
 npm run start
 npm run dev
